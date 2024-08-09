@@ -1,6 +1,8 @@
-⚡ App Clima Tempo ⚡ 
+# App Clima Tempo ⚡ 
 
 E aí galera, tudo bem? Estou disponibilizando este projeto no meu Github, este app é muito bom para aprender a fazer consumo de API, o nome desta API é OpenWeatherMap, nela é possível obter dados em tempo real do clima em qualquer lugar do mundo. 
+
+📸 Capturas de tela
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![1](https://github.com/user-attachments/assets/46759520-f681-413a-8a01-0fb4f5df6b87)
 ![2](https://github.com/user-attachments/assets/eed9406c-18b7-4d5f-a42d-58998c1f0320)
@@ -8,9 +10,17 @@ E aí galera, tudo bem? Estou disponibilizando este projeto no meu Github, este 
 ![4](https://github.com/user-attachments/assets/d8937408-0193-4085-9685-c695c1688a84)
 ![5](https://github.com/user-attachments/assets/1d33c8d8-e553-44ea-aa57-85721e1bde27)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔥 Características:
- - API Rest
- - XML
+
+# 🛠️ Tecnologias utilizadas
+- API Rest
+- XML
+- Padrão MVVM
+- Navigation
+- Clean Architecture
+- Kotlin
+- Retrofit
+- Coroutines
+- Jetpack Components(ViewBinding, Navigation Components)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MIT License
 
